@@ -1,4 +1,4 @@
-## Welcome to Cupid Pages :cupid:
+## Welcome to Cupid Pages
 
 
 
