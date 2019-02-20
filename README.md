@@ -1,5 +1,4 @@
-![cupid](icons/cupid_32.png)
-## Welcome to Cupid Pages  
+## Welcome to Cupid Pages    ![cupid](icons/cupid_32.png)  
 
 
 ##### 快速链接
