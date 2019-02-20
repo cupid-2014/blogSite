@@ -1,3 +1,10 @@
+## Welcome to Cupid Pages :cupid:
 
 
-[关于](introduction/aboutMe.md) [链接汇总](introduction/detailList.md)
+
+
+##### 快速链接
+* [学习笔记](introduction/detailList.md)
+* [关于我](introduction/aboutMe.md)  
+* [临时记录](introduction/temporaryRecord.md)
+
