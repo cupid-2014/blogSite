@@ -1,4 +1,4 @@
-## Welcome to Cupid Pages  <div align="center">![cupid](icons/cupid_32.png)</div>
+## Welcome to Cupid Pages  ![cupid](icons/cupid_32.png)
 
 
 ##### 快速链接
