@@ -1,4 +1,4 @@
-## Welcome to Cupid Pages
+## Welcome to Cupid Pages  ![cupid](icons/cupid_32.png)
 
 
 
