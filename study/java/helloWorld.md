@@ -4,4 +4,4 @@ public void helloWorld() {
 }
 ```
 
-[首页](../../../README.md)  [java](../java.md)
+[首页](../../README.md)  [Java](java.md)
