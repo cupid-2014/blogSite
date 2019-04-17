@@ -5,5 +5,6 @@
 * [SharePoint](../study/SharePoint/SharePoint.md)
 * [GitHub](../study/GitHub/github.md)
 * [Maven](../study/Maven/Maven.md)
+* [学术名词解释](../study/NounInterpretation/NounInterpretation.md)
 
 [首页](../README.md)

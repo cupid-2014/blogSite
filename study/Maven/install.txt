@@ -1,0 +1,1 @@
+mvn install:install-file -DgroupId=UserAgentUtils -DartifactId=UserAgentUtils -Dversion=1.13 -Dpackaging=jar -Dfile=UserAgentUtils-1.13.jar
