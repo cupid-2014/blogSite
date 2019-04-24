@@ -7,5 +7,6 @@
 * [Maven](../study/Maven/Maven.md)
 * [学术名词解释](../study/NounInterpretation/NounInterpretation.md)
 * [C#](../study/CSharp/CSharp.md)
+* [系统命令](../study/OSShell/OSShell.md)
 
 [首页](../README.md)
