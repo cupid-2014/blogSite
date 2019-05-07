@@ -8,5 +8,7 @@
 * [学术名词解释](../study/NounInterpretation/NounInterpretation.md)
 * [C#](../study/CSharp/CSharp.md)
 * [系统命令](../study/OSShell/OSShell.md)
+* [版本管理](../study/VersionControl/VersionControl.md)
+* [代理](../study/Proxy/Proxy.md)
 
 [首页](../README.md)
