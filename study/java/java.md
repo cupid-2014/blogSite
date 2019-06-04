@@ -9,6 +9,7 @@
 * [Apache Commons工具类](201905006.md)
 * [MyBatis PageHelper分页](201905007.md)
 * [spring boot引入freemarker模板](201905008.md)
+* [spring boot打包部署](201906001.md)
 
 
 [首页](../../README.md)  [学习总览](../../introduction/studyCatalogList.md)
