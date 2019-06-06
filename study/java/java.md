@@ -12,6 +12,7 @@
 * [spring boot打包部署](201906001.md)
 * [应用服务器工具](201906002.md)
 * [spring boot中Controller获取前台参数方式](201906003.md)
+* [spring boot集成shiro](201906004.md)
 
 
 [首页](../../README.md)  [学习总览](../../introduction/studyCatalogList.md)
