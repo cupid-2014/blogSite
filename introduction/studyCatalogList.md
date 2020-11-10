@@ -10,5 +10,7 @@
 * [OS学习](../study/OSShell/OSShell.md)
 * [版本管理](../study/VersionControl/VersionControl.md)
 * [代理](../study/Proxy/Proxy.md)
+* [VBA](../study/VBA/VBA.md)
+* [PS](../study/PS/PS.md)
 
 [首页](../README.md)
