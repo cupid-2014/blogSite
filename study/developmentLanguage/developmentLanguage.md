@@ -1,4 +1,4 @@
-#### 开发语言学习
+#### 开发语言
 
 * [java](../java/java.md)
 * [javascript](../javascript/javascript.md)
