@@ -7,6 +7,7 @@
 * [SharePoint spfx部署](201903001.md)
 * [SharePoint 常见问题](202012001.md)
 * [SharePoint 常用写法](202012002.md)
+* [SharePoint 常用工具](202012003.md)
 
 
 [首页](../../README.md)  [开发语言](../developmentLanguage/developmentLanguage.md)
