@@ -9,6 +9,7 @@
 * [SharePoint 常用写法](202012002.md)
 * [SharePoint 常用工具](202012003.md)
 * [SharePoint 权限配置](202012004.md)
+* [SharePoint 优化](202012005.md)
 
 
 [首页](../../README.md)  [开发语言](../developmentLanguage/developmentLanguage.md)
