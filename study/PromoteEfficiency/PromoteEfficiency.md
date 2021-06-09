@@ -5,6 +5,7 @@
 * [格式转换](formatFactory/formatFactory.md)
 * [markdown](markdown/markdown.md)
 * [正则表达式](regularExpression/regularExpression.md)
+* [Jenkins](Jenkins/Jenkins.md)
 
 
 [首页](../../README.md) > [学习总览](../../introduction/studyCatalogList.md)
