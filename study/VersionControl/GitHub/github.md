@@ -8,4 +8,4 @@
 * [git学习笔记](https://www.jianshu.com/p/9eaf603b4796)
 
 
-[首页](../../../README.md) > [版本管理](../VersionControl.md)
+[首页](../../../README.md) > [学习总览](../../../introduction/studyCatalogList.md) >  [版本管理](../VersionControl.md)
