@@ -1,6 +1,7 @@
 ##### Jenkins
 
 * [Jenkins 标准用法](202106001.md)
+* [NAS Jenkins](202106002.md)
 
 
 
