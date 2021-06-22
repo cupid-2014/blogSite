@@ -12,6 +12,7 @@
 * [spring boot打包部署](201906001.md)
 * [应用服务器工具](201906002.md)
 * [spring boot中Controller获取前台参数方式](201906003.md)
+* [spring boot使用Redis](202106001.md)
 * [spring boot集成shiro](201906004.md)
 * [spring boot配置默认页面](202105001.md)
 
